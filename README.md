@@ -1,2 +1,5 @@
 # learning-about-version-control
-- author: Yuhan Fan
+
+-   author: Yuhan Fan
+
+Solving merge conflicts is soooooo hard!
